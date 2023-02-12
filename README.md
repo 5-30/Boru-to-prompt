@@ -12,7 +12,7 @@ pip install requests
 
 - Run `main.py`.
 
-## Example :
+## 📷 Example :
 
 **Original :** https://danbooru.donmai.us/posts/6002724
 
