@@ -18,7 +18,12 @@ pip install requests
 
 **Results :** 
 
-<img src="examples/tmpxq1q0_yq.png">
+<img src="examples/2.png">
 <img src="examples/1.png">
-<img src="examples/tmpmhruykiu.png">
-<img src="examples/tmp2j64g5m3.png">
+<img src="examples/3.png">
+
+**Original :** https://danbooru.donmai.us/posts/6063626
+
+**Results :** 
+
+<img src="examples/robin.png">
