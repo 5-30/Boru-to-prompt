@@ -1,6 +1,6 @@
-<center># Boru to prompt : Convert any boru link to a Stable Diffusion prompt</center>
-<hr>
-<center>Here is a very small python script that gets all tags from a boru post and converts them into a prompt.</center>
+<h1 align="center"># Boru to prompt : Convert any boru link to a Stable Diffusion prompt</h1>
+<hr align="center">
+<p align="center">Here is a very small python script that gets all tags from a boru post and converts them into a prompt.</p>
 
 ## ⬇️ Installation
 
