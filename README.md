@@ -2,7 +2,7 @@
 
 ## ⬇️ Installation
 
-- Install the latest version of [Python](https://www.python.org/downloads/) : https://www.python.org/downloads/
+- Install the latest version of [Python](https://www.python.org/) : https://www.python.org/downloads/
 
 - Install the package needed to run the tool.
 
