@@ -11,19 +11,3 @@ pip install requests
 ```
 
 - Run `main.py`.
-
-## 📷 Example :
-
-**Original :** https://danbooru.donmai.us/posts/6002724
-
-**Results :** 
-
-<img src="examples/2.png">
-<img src="examples/1.png">
-<img src="examples/3.png">
-
-**Original :** https://danbooru.donmai.us/posts/6063626
-
-**Results :** 
-
-<img src="examples/robin.png">
